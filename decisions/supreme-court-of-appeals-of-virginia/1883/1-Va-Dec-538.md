@@ -1,0 +1,34 @@
+---
+court: "Supreme Court of Appeals of Virginia"
+decided: "1883-05"
+citations: ["1 Va. Dec. 538"]
+reporter: "va-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bailey, &c., v. Pizzini & als."]
+source_url: "https://static.case.law/va-dec/1/cases/0538-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4440703
+cites_cases: ["20 Gratt. 439", "5 Rand. 333"]
+---
+
+# Bailey v. Pizzini
+
+## Majority (Lacy, J., Hinton, J.,)
+
+Lacy, J.,
+delivered the opinion of the court.
+This is an appeal from a decree of the chancery court of the city of Richmond, entered on the 4th day of November, 1880, in the above-named suits. Under the post-nuptial settlement of January 31st, 1866, the real estate is to be held by the wife during her life under its provisions, the trustee to reinvest if the same shall be sold. The trustee, pending the transactions, the subject of litigation here, was the husband of the appellant, Mary C. Bailey. The wife and the trustee made a trust deed conveying the property to secure a debt of §3,800, and these suits are brought by Mrs. Bailey and her children, respectively, to prevent the sale of the said property under the deed.
+The chancery court dissolved the injunction by decree of that date on the 4th of November, 1880, and appointed commissioners to mate sale of the said lands unless the debt was paid in sixty days. From this decree Mrs. Bailey appealed to this court.
+The cause came up in the said chancery court on exceptions to the commissioner’s report, among which were :
+1st. That the commissioner had reported that the trustee and husband of this married woman was competent to contract in the time of the execution of the trust deed in question, dated April 18th, 1877.
+2d. That the commissioner had reported the trust deed binding on Mrs. Bailey and her children.
+3d. That the commissioner reported that the debt was not usurious.
+This is a case upon the facts of peculiar and severe hardship. The evidence shows that the trustee and husband was an imbecile, if not an actual lunatic. Under the guise of selling notes, the money was borrowed by him at a rate of interest in excess of the rate allowed by law, and the whole was finally secured by a trust deed, which was made to conform as near as possible to the terms of alienation prescribed in the deed of settlement. It is a fundamental rule that to make a deed valid the parties must be competent to contract. The trustee and husband in this case was incompetent, and for that reason the deed is not valid and binding on any of the beneficiaries in the deed of settlement of January 31st, 1866, and the chancery court erred in overruling this exception.
+The second exception as to right of alienation and the deed of settlement aforesaid should have been sustained. This case upon that point is controlled by the case of the Bank of Greensboro v. Chambers, in 30th Gratt. We may say here, as in that case, that it is conceded that this is a separate estate, belonging to Mrs. Bailey under the deed of settlement. A married woman is the owner of her separate estate and of the right of disposal of the same, subject to such limitations as are contained in the instrument. ‘ ‘In the construction of every instrument, the paramount rule is to construe it so as if possible to give effect to every part of it, and in order to discover the intention of the parties we look not only to the terms of the instrument, but to the subject-matter and the surrounding circumstances. ’ ’
+Looking to the deed of settlement we see that the leading intent was to provide and to secure a home, maintenance and support, not for the wife only, but for the children. It was the clear and plain intention of this settlement to provide for the wife, to give her the use of the profits, and the right to alienate is limited by the command therein to reinvest the proceeds. Under the transactions in this case the wife has been induced to enter into a deed which results in the absolute alienation of the trust subject. We are of opinion that under the terms of the deed of settlement of January 31st, 1866, the wife could use and dispose of only the annual rents, issues and profits, and by and with the consent and concurrence of the trustee in due form to alienate in order to reinvest the proceeds of the corpus. These speculative and indeed questionable transactions result in a complete alienation of the corpus of the trust subject and that too Avithout the concurrence of the trustee, because an insane trustee cannot contract, cannot consent, can do no valid or binding act either alone or in conjunction with any other person, and the supposed trust deed of April 18th, 1877, is invalid and not binding, and the court should have sustained the second exception upon that ground and held the deed invalid. These tivo exceptions having been sustained the third ceases to be of any great importance, but that also should have been sustained. The transactions were plainly usurious ; the usury is transparent throughout. The case of Whitworth v. Adams, 5 Rand. 333, and subsequent cases affirming the same, including Gimmi v. Cullen, 20 Gratt. 439, proceed upon the principle that the purchaser did not know that the note was sold for the benefit of the maker, and he Avas protected as an innocent purchaser. These cases have no application to a case like this; the maker of the note was the endorser, and borrowed money on the note at usurious rates of interest, and the usury is stamped on the whole transaction. The proceedings and the very proofs in the case treat and describe the transaction as a loan to the trustee, and all the persons dealing with this note appear to be, and doubtless were, entirely familiar with all the attendant circumstances ; the usury was not only transparent and exhorbitant, but the whole transaction seems to be unconscionable and not such as a court of equity should enforce.
+The court below erred in overruling these exceptions to the commissioner’s report, and the decree of the said chancery court must be reversed and annulled.
+The said court should have sustained the said exceptions and entered an order perpetuating the injunction against the defendants, Hill and Pizzini, setting aside as invalid the deed of April 18th, 1877.
+Hinton, J.,
+thought the cestui que trust should be charged with such part of the fund as was expended for her support and maintenance.
+Reversed.
