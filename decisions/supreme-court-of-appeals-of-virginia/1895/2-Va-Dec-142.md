@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Appeals of Virginia"
+decided: "1895-06-20"
+citations: ["2 Va. Dec. 142", "22 S.E. 359"]
+reporter: "va-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robertson v. Commonwealth"]
+source_url: "https://static.case.law/va-dec/2/cases/0142-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4440937
+cites_cases: ["20 S. E. 893", "21 Gratt. 214", "21 S. E. 368", "25 Gratt. 887"]
+---
+
+# Robertson v. Commonwealth
+
+## Majority (Cardwell, J.,)
+
+Cardwell, J.,
+delivered the opinion of the court.
+Joseph B. Robertson, under an indictment in the county court of Franklin county for the murder of Malcolm Cundiff, was on November 9, 1893, convicted of murder in the second degree, and sentenced to the penitentiary for a term of eight years. From this judgment of the county court a writ of error was obtained to this court, having been refused by the circuit court of Franklin county. The three bills of exceptions to the rulings of the trial court are very imperfectly and irregularly prepared, and in such a manner that we cannot say that the evidence at the trial is properly before this court; but, as an examination of the evidence does not affect the result of our consideration of the case, we will take no further notice of the irregularity.
+The first exception is to the ruling of the trial court in refusing to allow John Hunt, a witness for the defense, to contradict a witness for the commonwealth who stated that another witness for the commonwealth had not told him that he could not tell the same tale he had told before the justice. This evidence was an attempt to prove a matter purely collateral and irrelevant to the issue, and was, in our opinion, properly rejected by the court.
+Second. Exception is taken to the action of the court in overruling the prisoner’s motion in arrest of judgment on the ground that there was error apparent on the face of the record, and it is in this bill of exceptions that the evidence at the trial is certified, and no reference is made in the third bill of exceptions to this bill. We have been unable to find the alleged errors apparent on the face of the record. Therefore, this exception is without merit.
+The third and last bill of exceptions is to the ruling of the court in refusing to set aside the verdict of the jury as contrary to the law and the evidence. The case stands here as upon a demurrer to the commonwealth’s evidence (section 3484 of the Code, as amended), and this court will set aside a verdict on such a motion only in a case where the jury have plainly decided against the evidence, or without evidence. Blosser v. Harshbarger, 21 Grat. 214, and the cases cited; Cash v. Com. (Va.) 20 S. E. 893 ; and Nicholas v. Com. (Va.) 21 S. E. 368,— the two last cases decided by this court at a recent term. The evidence in this case shows that the plaintiff in error, with a number of others, including the deceased, was, in the nighttime of the 13th of August, 1893, going from preaching at Doe Run church or schoolhouse, in Franklin county; that he was cursing and swearing at the crowd, and particularly trying to create a difficulty with one John Altic ; that he (the plaintiff in error) continued with the crowd beyond the road that he usually went to his own home, and continued to curse and swear in a violent manner; and finally pulled off his coat, and, with profane language, invited a difficulty with any and every man in the crowd ; that the deceased was only heard to ask him to stop cursing and swearing; and that when he did this a difficulty began between plaintiff in error and the deceased, which terminated in a brief space of time, but not before the plaintiff in error had rent the left breast of deceased’s vest, cut through the crown of his hat with a knife, or some sharp instrument, and inflicted a ghastly wound upon his neck, from which he died within a week. From this testimony there can be no doubt but that, when the difficulty was invited by the plaintiff in error, he had his knife ready for use, and began to use it from the first, and not, as claimed, in self-defense. He had but a few minutes before spoken of his knife, and said, that “it had never gone back on him yet. ” It is true that the evidence in the case is conflicting, especially so as to whether or not deceased struck the first blow ; but if this be granted, the evidence fails to show that he had a deadly weapon in his hand, — it shows the contrary, — and utterly fails to show that the plaintiff in error had reasonable grounds to fear any great bodily injury when he inflicted the fatal cut. For these reasons, we are clearly of the opinion that there is no error in any of the rulings of the county court of Franklin county, and its judgment must be affirmed.
