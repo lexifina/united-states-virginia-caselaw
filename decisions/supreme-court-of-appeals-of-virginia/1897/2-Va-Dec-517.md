@@ -1,0 +1,27 @@
+---
+court: "Supreme Court of Appeals of Virginia"
+decided: "1897-06-17"
+citations: ["2 Va. Dec. 517", "27 S.E. 496"]
+reporter: "va-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["West v. Adams."]
+source_url: "https://static.case.law/va-dec/2/cases/0517-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4440326
+cites_cases: ["23 S. E. 777", "92 Va. 375"]
+---
+
+# West v. Adams
+
+## Majority (Buchanan, J.,)
+
+Buchanan, J.,
+delivered the opinion of the court.
+The first error assigned in the petition is that the motion to quash the summons and the sheriff’s return thereon should have been sustained. In oral argument so much of this assignment of error as related to the motion to quash the sheriff’s return was abandoned. • The ground relied on here for quashing the summons is that it (the summons) was brought to recover possession of an interest in the land which was the separate estate of the female plaintiff, and that her husband, who is united with her “for conformity,” as stated in the summons, was an improper party. The husband was an improper party, but under Acts Assem. 1893-91, p. 189, which were in force when this action was instituted, the court had the power, and it was its duty, to have directed the action to abate as to the husband, and to proceed with the cause as if no such misjoinder had been made. The court did not err, therefore, in refusing to quash the summons, but it ought to have abated the action as to the husband. This it did not do by any order ; but the husband does not appear afterwards to have been treated as a party to the record. The verdict and judgment and other proceedings are in the name of the wife alone. The subsequent proceedings being in her name alone was “equivalent to dismissing the suit as to the husband,” as was said by Judge Harrison in Railroad Co. v. Dougherty, 92 Va. 375, 23 S. E. 777.
+The next assignment in the petition was as to the refusal of the court to continue the cause, and this was also abandoned in the oral argument.
+This was an action of unlawful detainer to recover the possession of certain oyster planting grounds. To entitle the plaintiff to recover, it was necessary for- her to show that she was entitled to the possession of the planting ground sued for, as the defendant was not in possession as a naked trespasser, but under a claim of right. This she failed to do. She testified in the case, and the ground upon which she based her claim was that the ground sued for, which had been assigned to her husband, was abandoned by him in the year 1892, and taken up by her in the spring of 1893, and that since the last-named year she had paid the rent for the same.
+The Code (section 2137) provides, among other things, that all applications for assignments of oyster planting ground other than for the ground reserved for riparian owners, shall be made to the oyster inspector of the county or district in which said grounds are located, stating as near as may be the number of acres applied for, the name of the waters in which located, and the name of one or more prominent points or places convenient to said ground; that notices of said application shall be posted for at least 30 days at the courthouse of said county, and at two or more prominent places in the vicinity of said grounds ; that after the expiration of such notice of 30 days the inspector shall proceed to survey and assign the grounds so applied for, subject to certain exceptions not necessary to mention as they do not affect this case.
+It does not appear that any such application or assignment was made, or such notice given. The deputy inspector of oysters testified that Mr. Adams, the husband of the plaintiff, applied to him to have the ground which had been surveyed by the deputy surveyor in August, 1892, assigned to him (Adams), paid the tax or rent on the land, and afterwards abandoned it; that then the plaintiff said she would take the ground, and pay the rent; that such rent was paid in installments of $10 or $15 at a time, and that when the rent was fully paid he gave her a receipt for the whole; that Mr. Adams paid no part of this rent; that in 1895 he directed in writing that the grounds held by Mr. Adams be transferred to the plaintiff, and that this transfer was pasted by the clerk on the plot book in the office of the county court of Gloucester county; that he never advertised the grounds after they had been abandoned by Mr. Adams, and did not assign and survey the same to the plaintiff, but merely received the rent from her.
+It is not pretended that the husband assigned his interest in the grounds to his wife, or that she claims under him. When he abandoned the property, the law, as we have seen, provided in what manner other persons might acquire the right to use it as oyster planting ground. If it be conceded that the plaintiff’s application was sufficient, no notice was given, and no assignment made by the inspector,' as the law requires. Neither does it appear that the plaintiff paid the rent and received a receipt for it in full for one year in advance, and without such receipt the statute declares that no person shall be considered a renter of oyster planting ground. The plaintiff upon her own showing was not entitled to recover the ground in controversy. It therefore becomes unnecessary to consider the other assignments of error.
+The judgment complained of must be reversed, the verdict set aside, and a new trial awarded.
