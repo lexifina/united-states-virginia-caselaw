@@ -1,0 +1,34 @@
+---
+court: "Supreme Court of Appeals of Virginia"
+decided: "1874-09-24"
+citations: ["1 Va. Dec. 56"]
+reporter: "va-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Shaver v. Swartz & Levy."]
+source_url: "https://static.case.law/va-dec/1/cases/0056-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4441874
+---
+
+# Shaver v. Swartz & Levy
+
+## Majority (Staples, J.,)
+
+Staples, J.,
+delivered the opinion of the court.
+This suit was instituted in the circuit court of Rocking-ham county in February, 1872, by Swartz & Levy, judgment creditors of Levi Shaver to enforce the lien of their judgment against the real estate owned by the latter. In the progress of the suit, it appearing that B. F. Shaver, a son of the defendant, claimed to be the owner of a tract of one hundred and forty-three acres by purchase from his father subsequent to the rendition of the judgment, he was admitted a defendant and filed his answer to the bill.
+In this answer B. F. Shaver asserts that he purchased the tract in question from his father on the 5th of October, 1865, at the price of sixty dollars per acre, amounting in the whole to eight thousand five hundred and eighty dollars, and that he has paid all the purchase money except about four or five hundred dollars.
+The plaintiff claimed that this contract is fraudulent and void, having been entered into with intent to hinder and delay the creditors of Levi Shaver in the collection of their debts, and, whether fraudulent or not, they insisted it was void as to them because not recorded as required by the statute.
+The cause coming on to be heard at the October term, 1872, the court held that the agreement evidencing the purchase, not having been duly admitted to record in the county wherein the tract of land lies, is void as to the judgment creditors of Levi Shaver and a decree was accordingly rendered for a sale of the land by a commissioner of the court. From that decree an appeal was taken to this court.
+We do not deem it necessary in the present case to consider the question decided by the circuit court as to the effect of a judgment upon an unrecorded contact for the sale of land. It is a very grave question involving the interests of considerable magnitude throughout the state and not to be settled except upon the most careful consideration, more especially as there are several cases now pending in this court hereafter to be argued in which the same question is involved.
+We are of opinion that the decree of the circuit court may be sustained upon the ground that the pretended agreement for the sale of the land relied upon by the defendants is fraudulent and void as to the creditors of Levi Shaver. As before stated the agreement bears date the 5th of October, 1865, and is attested by a subscribing witness, but the witness is not called to prove its execution at the period it bears date.
+B. F. Shaver alleges in his answer that he was put in possession at the time of sale, and that he has been in continuous possession ever since, but no proof of these facts is produced.
+He alleges that he has paid of the purchase, about eight thousand dollars — that of this, the sum of §2,970.00 was paid at the date’ of the contract — but not a scintilla of evidence is adduced to sustain these allegations except a receipt endorsed upon the contract bearing date the 5th of October, 1865, for the amount of the first payment. This payment could have been proved if actually made by the witness, but no effort is made to introduce him and no evidence given for the failure to do so.
+The defendant, B. F. Shaver, it is charged in the bill, possessed no property or money of his own with which said purchase could be made, and he is called upon to say where and how he obtained the means to make these payments. His' answer is, that he was a soldier in the Confederate service ; that he was the fortunate captor of many .fine horses, and that on more than one occasion he captured large sums of money from the United States forces. How this is a most improbable story and ought to have been supported by some confirmatory testimony. Ho witness is introduced who ever heard of this capture of money from the United States forces. The capture and sale of the fine horses was a matter susceptible of proof without the slightest difficulty, but the defendant offers none. He is content to rest his case upon this vague and general assertion..
+Pie further says that the funds used in making the last payments were made out of the crops raised by him on the land and by fortunate speculations in stock raising and growing after his purchase. Here again the allegation was susceptible of the clearest proof, but no evidence is adduced in support of it. It is difficult to believe that from the proceeds of a small tract of forty-three acres of land the defendant could have provided for his father’s family and realized such profits as enabled him to make large payments of the purchase money.
+If, however, as claimed, the large sum of money of eight thousand dollars was paid by B. F. Shaver to his father between the 1st of October, 1865, and the 1st of February, 1870, what has become of the money?
+The commissioner’s report shows that Levi Shaver, up to April, 1872, owed debts to the amount of §17,000.00 which were embraced in a deed of trust executed by him as far back as 1860, and also debts to the amount of §8,707.95 upon which judgments against him had been secured. The property embraced in the deed was long ago sold and was wholly inadequate to discharge the liabilities therein mentioned. Executions against him had been returned unsatisfied and he had gone into bankruptcy. Nor does it appear that any of his creditors ever knew or even heard of these large instalments of purchase money which were being paid him by his son. So that this whole sum of eight • thousand dollars in the short space of four years has been in some unaccountable manner disposed of by an old man with no one dependent upon him but his wife, and both of them, according to the answer, protected and provided for by the son.
+No account is given or attempted to be given of the money, and the defendant, Levi Shaver, so far from admitting that any portion of it is in his possession, asserts a claim to the balance of §191.00 due him from his son, under the homestead exemption.
+The whole story is incredible. It is as bold and audacious attempt as ever made to palm upon a court of justice a flagrant fraud upon the rights of creditors, and it is a little remarkable that the circuit court did not base its decision upon this ground rather than the more debatable one of the operation and effect of the recording acts.
+For the reasons stated we are of the opinion that the decree must be affirmed.
