@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of Appeals of Virginia"
+decided: "1878-10-03"
+citations: ["1 Va. Dec. 124"]
+reporter: "va-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dever v. Jordon."]
+source_url: "https://static.case.law/va-dec/1/cases/0124-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4440017
+---
+
+# Dever v. Jordon
+
+## Majority (Christian, J.,)
+
+Christian, J.,
+delivered the opinion of the court.
+This is a controversy between the appellant, Francis C. Dever, and the appellee, Harvey M. Jordon, about the title to certain undivided interests in twenty-six acres of land lying in the county of Rockingham. They both claim under John Dever, a nephew of the appellant and brother-in-law of the appellee, Jordon. Francis C. Dever claims to have been the purchaser as early as 1849, by articles of agreement dated October 22nd, 1849. Harvey M. Jordon claims to have become the purchaser in the spring of 1860, and the subject was conveyed to him by deed dated, acknowledged and recorded in the same year. The bill was filed by Francis C. Dever in the circuit court of Rockingham county, in February, 1866 ; and said Harvey M. Jordon and John Dever and Samuel Cline, Sr. and Jr., who had contracted to purchase the subject from said Jordon, were made defendants to the bill; and said Jordon, John Dever and one of the Clines answered the bill. In Jordon’s answer he claims to have been a bona fide purchaser of the subject forvalue, and without notice of the claim of the plaintiff, and to have been in possession of the entire tract upwards of twenty years, until his sale to Cline in August or September, 1865, and paid the taxes on it; and £ £he denies any possession or any acts of ownership by the complainant over any of the land, unless they were sly and clandestine acts.” In John Dever’s answer he admits the sale of the complainant, as set forth in the contract of October 22nd, 1849, filed as an exhibit with the bill. But he utterly denies that complainant ever paid any part of the purchase money as stipulated by the contract. He £ £is clear and distinct in his recollection that nothing was ever paid on the contract, although he several times dunned the complainant. ’ ’ He says, £ £he has received no money — denies the genuineness of the receipt annexed to the contract, ’ ’ and the respondent having waited a period of nearly eleven years, and having received no pay for the land, it was reasonable to suppose the complainant had abandoned his purchase. And the respondent sold and conveyed it to Harvey M. Jordon.” He “gave said Jordon no information of the previous sale to complainant, and has no reason to believe he had any knowledge of it whatever.”
+A good many depositions were taken in the cause on each side, among which was the deposition of the said John Dever on the side of the defendants, which fully sustain the allegations, andón the 26th day of October, 1866, the cause came on to be heard upon the bill and exhibits, the answers of the defendants, Henry M. Jordon and Samuel Cline, Jr., with replication to said answers, and the depositions of witnesses, and upon the bill taken for confessed as to the defendant, Samuel Cline, Sr., and was argued by counsel. On consideration whereof the court decreed that the injunction awarded the plaintiff on the 11th day of December, 1865, restraining the defendant from committing waste or trespass upon the land in the bill mentioned, or cutting down or carrying away the timber, and restraining the said Samuel Cline and Samuel Cline, Jr., from paying to said H. M. Jordon any of the purchase money for his part of the said land, should be dissolved ; that the bill of the plaintiff should be dismissed ; that he should pay to the defendants their costs by them about their defence in that behalf expended.
+To the said decree, the plaintiff applied to a judge of the late district court at Winchester for a writ of error, which was accordingly awarded on the 23rd day of October, 1867. The appeal was pending in that court until it ceased to exist when the case devolved by law upon this court, wherein it has ever since been and yet is pending ; and it has just been submitted by the parties by their counsel, to the decision of the court.
+The only question for the decision of the court in the case is whether upon the pleadings and the proofs in the cause, the appellant, Francis C. Dever, or the appellee, Harvey M. Jordon, is entitled to the land in controversy.
+The evidence in the case is very conflicting ; but without reviewing it in detail, it is sufficient to say that the court is of opinion that the preponderance of the evidence is against the appellant and in favor of the appellee, Harvey M. J or-don ; that there is no error in the decree appealed from and that the same must therefore be affirmed.
