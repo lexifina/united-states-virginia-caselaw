@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of Appeals of Virginia"
+decided: "1887"
+citations: ["1 Va. Dec. 626", "3 S.E. 95"]
+reporter: "va-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Norfolk & W. R. Co. v. Prinnell and Wife."]
+source_url: "https://static.case.law/va-dec/1/cases/0626-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4440240
+cites_cases: ["2 South. Rep. 567", "22 Gratt. 924", "23 Pa. St. 149", "25 Gratt. 887", "32 Gratt. 913", "4 S. W. Rep. 52", "5 Atl. Rep. 838", "77 Va. 696", "79 Va. 659"]
+---
+
+# Norfolk & W. R. Co. v. Prinnell
+
+## Majority (Hinton, J.,)
+
+Hinton, J.,
+delivered the opinion of the court.
+This is an action of tort, which was submitted to the jury under instructions eminently favorable to the defendant, and the jury have rendered a verdict, in which they have assessed the damages of the plaintiff at $950, a sum which, under the circumstances of the case, cannot be said to be excessive. Upon the case, as it is presented to us, the only question upon which we are called to pass is whether the circuit court erred in refusing to set aside the verdict, and grant a new trial, upon the ground that the verdict is contrary to the law and the evidence. That question is presented upon a certificate of evidence ; and, under the established rule of this court, the plaintiff in error must succeed, if at all, by showing that, after he has waived all of his own evidence, merely oral, and giving full force and credit to that of his adversary, the verdict is still erroneous. Dean’s Case, 32 Gratt. 913; Taylor’s Case, 77 Va. 696; Jones v. Rixey, 79 Va. 659.
+Confining ourselves, therefore, to evidence of plaintiff below, the case made by the record is plainly this : At the time of the accident the whistle of the engine had been sounded for the station Rural Retreat. The name of the station had been announced to the passengers, presumably, because there is no evidence throwing doubt upon the point, by the person whose duty it was to perform that service. The train had come to a stop, and the plaintiff, Judy Prinnell, was on the bottom step of the platform of the cars, ‘ fin the act of getting down, when the train started forward with a sudden jerk,” which threw the plaintiff down, and injured her spine. Under such circumstances, if we may not be permitted to declare, as matter of law, that the party injured is entitled to recover, about which I am not entirely satisfied, yet it is perfectly clear that if such party prevail before the j ury, that he should be allowed to retain his verdict.
+The principles of law applicable in such cases are perfectly familiar, and in accord with the dictates of justice and common sense. The company having undertaken to carry the passenger, the duty at once arises, and the obligation is cast upon the company, of carrying him or her to the place of destination in safety. As was said by Black, C. J., in the case relied upon by the defendant: £ ‘Railroad companies must carry the passengers to their respective places of destination, and set them down safety, if human care and foresight can do it. ’ ’ Pennsylvania R. Co. v. Aspell, 23 Pa. St. 149. And, from the consequences of a failure to discharge its duty in this respect, the company can only be relieved by the conduct of the passenger in failing to exercise the measure of care and prudence required of him. The implied contract to carry safety includes the duty of giving the passengers reasonable opportunity to alight in safety from the train, and a violation of this part of the company’s duty is culpable negligence for which an action will lie. Thomp. Carr. 227.
+In the case at bar, the announcement of the station, and the stopping of the train at the place where passengers were accustomed to disembark, was naturally and property construed by the plaintiff and an invitation to her to alight, and she had the right to expect it would stop long enough to allow her to get off without danger. Id. 226, note 4. She was therefore guilty of no negligence in going out upon the platform, and in descending the step; and it is immaterial so far as the result is concerned, whether after she had reached the last step, she was thrown down by the sudden jerking of the car, or by its unexpected forward motion. In either event, her injuries are directly traceable to the circumstance, for which the company is responsible, that the train was moved forward at a time when the plaintiff had the legal right to assume that it would be permitted to remain stationary. That the train was not moved forward so rapidly as to make hex conduct in getting down at the time reckless, or even obviously dangerous, may be fairly inferred from the fact that it only ran about 100 yards further before it was stopped a second time.
+It cannot be necessary to say more. We are unable to discover any evidence that the plaintiff was wanting in proper •care and prudence, and the judgment must be affirmed.
