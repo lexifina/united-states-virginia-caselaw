@@ -1,0 +1,33 @@
+---
+court: "Supreme Court of Appeals of Virginia"
+decided: "1895-12-19"
+citations: ["2 Va. Dec. 279", "23 S.E. 772"]
+reporter: "va-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Allen v. Crank et al."]
+source_url: "https://static.case.law/va-dec/2/cases/0279-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4440617
+cites_cases: ["13 Gratt. 705"]
+---
+
+# Allen v. Crank
+
+## Majority (Harrison, J.,)
+
+Harrison, J.,
+delivered the opinion of the court.
+On the 16th day of September, 1890, a contract in writing, signed by the parties, was entered into between Mrs. Virginia M. Allen of the first part and J. R. and W. J. Crank of the second part for the sale of certain timber. The only portion of this contract necessary to be.here referred to is as follows : “Witnesseth, that the said party of the first part doth hereby convey, sell, assign, and transfer to the said second parties all her right, title, and interest to and in all the timber now standing on the estate called ‘Upper Tuckahoe,’ said standing timber to be not less than six inches in diameter, with free right of way to the parties of the second part of egress and ingress for the purpose of hauling and transferring said timber when felled.”
+On the 2d day of April, 1892, Mrs. Allen filed her bill asking for an injunction, which was granted, to restrain the appellees -from using a certain portion of her pasture land, then being occupied by them, as a location for operating their steam sawmill; and further asking that the court would construe the contract between the parties, and compel the appellees to remove their sawmill and appliances' from' the pasture land and property of appellant; and that proper damages might be awarded for the unlawful intrusion upon and use of her property by the appellees.
+On the 5th day of September, 1892, the appellant filed an amended and supplemental bill, in which she alleges that the appellees committed a fraud upon her in procuring the contract for the sale of the timber; that she only sold appellees thepine timber on the estate called “UpperTuckahoe,” and that the word “pine” was omitted from the contract upon the assurance of appellees that it was not necessary to put it in, as they all knew she had only sold pine timber to them.
+These bills were answered by the appellees, and evidence was taken by both parties. Upon the hearing the court dissolved the injunction, decreed that there was no fraud in the procurement of-the contract, that the appellees were not violating the same, and dismissed the bills.
+The chief complaint of appellant is that the circuit court refused to reform the written contract by holding that the timber mentioned therein was restricted to pine timber.
+There is no rule of evidence better settled than that which, declares parol testimony inadmissible to vary, contradict, or take from the terms of a valid written agreement, except in cases of fraud or mistake. This principle is founded in wisdom, and cannot be too carefully guarded. Upon its enforcement the certainty and sanctity of written contracts depend, and its violation would be destructive of the most solemn transactions of life. Upon this subject so much has been said and written that nothing can be added without useless repetition. It is sufficient to cite the elaborate and able opinion of this court delivered by Judge Allen in Towner v. Lucas, 13 Gratt. 705.
+In the case before us the evidence fails to establish fraud in the procurement of the contract, or any mistake in its execution. On the contrary, the appellant’s testimony shows that she and the appellees met at the law office of her selected counsel, and had their contract reduced to writing. She admits that the word £ £pine, ’ ’ limiting the sale to that description of timber, was omitted from the contract with her full knowledge and consent. There could not, then, have been any mistake in its omission. Nor was there any fraud in the procurement of the contract, for it met with her intelligent assent; and after it was read she signed it freely, and left it with her counsel for safe-keeping.
+Appellant now claims that she only sold the pine timber, and not all the timber, as stated in the written contract; that the word £.£pine” was omitted from the written agreement because of the contemporaneous understanding with appellees that their purchase was limited to that description of timber. Judge Allen says, in the case already cited, that no case has been decided in which oral evidence has been received to ingraft upon or incorporate with the contract, an incident occurring contemporaneously therewith and inconsistent with its terms
+We have considered this branch of the ease upon the testimony alone of the appellant. It is proper, however, to say that, even if parol evidence were admissible to vary the terms of the written, contract, appellant could not prevail, for, after careful consideration of all the testimony, we are of opinion that the writing embodies the true understanding and agreement of the parties, not only under the rules of law to which we have referred, but upon the weight of evidence.
+The preponderance of evidence also shows that the pasture field was occupied by appellees with their sawmill, at the time the injunction was awarded restraining its use, in pursuance of an understanding had with appellant at the time the mill was located. As soon as the injunction was granted, in order to avoid the delay in their operations, which would result from awaiting a decision of the injunction suit on its merits, appellees, at considerable cost, promptly moved, their sawmill to another locality. The location in the pasture field having been selected with the approval and consent of appellant, the injunction was properly dissolved.
+The o contract provides for the sale of all the timber six inches in diameter. It is silent as to laps. Appellant insists that she is entitled to the laps, and that appellees should have been required to account for them. The weight of evidence touching the custom in the community and among lumber dealers as to whom the laps belong when the contract is silent on the subject justifies the judgment of the circuit court in this case, that the' laps belong to the appellees.
+The question of jurisdiction is raised by the appellees, and should properly have been disposed of first. An examination shows that both as to the amount involved and the time of appeal this court has jurisdiction.
+Upon the whole case, we think the decree appealed from is without error, and must be affirmed.
