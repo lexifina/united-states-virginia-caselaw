@@ -1,0 +1,21 @@
+---
+court: "Supreme Court of Appeals of Virginia"
+decided: "1894-06-19"
+citations: ["1 Va. Dec. 827", "19 S.E. 782"]
+reporter: "va-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Roger’s Adm’r v. Bertha Zinc Co."]
+source_url: "https://static.case.law/va-dec/1/cases/0827-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4440392
+---
+
+# Roger's Adm'r v. Bertha Zinc Co.
+
+## Majority (Lewis, P.,)
+
+Lewis, P.,
+delivered the opinion of the court.
+On the 9 th December, 1889, the plaintiff in error sued out of the clerk’s office of the court below a summons in an action of trespass on the case against the Bertha Zinc Company, returnable to second January rules, 1890. The process went into the sheriff’s hands on the l?th of the same month, and was never executed. The officer, it seems, £ ‘took it back to the clerk’s office, and left it with the clerk, but made no return thereon and it was afterwards lost or mislaid. The second January rules, or third Monday in January, 1890, fell on the 20th of that month. Several days thereafter, to wit, on the 29th of that month, the plaintiff sued out what is called in the record an “alias summons,” which was duly executed and returned. Upon the return day the declaration was filed, upon which rules were regularly taken, and at the March term, 1890, the case was placed upon the writ of inquiry docket. At that term the defendant company moved to quash the process dated January 29, 1890, and the return thereon, purporting to be an alias summons ; and the court, having taken time to consider, entered the following order, viz. : “The court is of opinion that said summons is insufficient and void as an alias summons, and therefore sustains said motion to quash said sum mons so far as it appears to be an alias summons. But, the court being further of opinion that the words ‘alias summons’ may be regarded as surplusage, and that said summons is sufficient to be treated as an original summons, the motion to quash the same as an original summons is overruled ; and the date of said summons, to wit, January 29, 1890, is the proper date of the commencement of this action.” The defendant thereupon pleaded not guilty, and also filed a plea of the statute of limitations, upon both of which pleas issue was joined. The ground upon which the motion to quash was based was that as the original summons was returnable to rules, and not executed, an alias could not be lawfully issued after the rules. The contention is that if an alias can be issued, as in the present case, nine days after rule day, at which the original summons is returnable, it may be issued as many years thereafter, and the bar of the statute of limitations may be thus indefinitely suspended by the plaintiff’s own act. The precise point of the contention is that, where a summons issued returnable to the first day of any rule, the life of that process depends upon one of two things, viz. (1) that it he executed, and (2) if returned not executed, that an alias be issued during the rule, and not afterwards.
+The question is an important one, but is not presented to this court for decision, because the order complained of is not a final judgment, anda writ of error in a civil action lies only to the final judgment. Code, § 3454. The order holds that the summons dated January 29, 1890, is void as an alias, but good as an original process, and that its date is the date of the commencement of the action ; thus, in effect, holding that there had been a discontinuance, by reason of the failure to sue out an alias at the rules to which the summons issued in December, 1889, was returnable. But whatever effect this order may have upon reultimate determination of the rights of the parties (as to which, in the present situation of the case, we can know nothing judicially), it is in no sense final in its character. On the contrary, it leaves 4he case open for future adjudication ; and it appears that, after it was entered, the defendant filed two pleas, upon which the plaintiff joined issue ; so that, in this state of things, we cannot know from the record that the plaintiff has been prejudiced by the order. At all events, the writ of error must be dismissed as having been improvidently awarded. Writ of error dismissed.
