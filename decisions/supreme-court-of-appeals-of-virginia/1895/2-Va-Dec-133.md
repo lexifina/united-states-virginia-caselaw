@@ -1,0 +1,44 @@
+---
+court: "Supreme Court of Appeals of Virginia"
+decided: "1895-11-21"
+citations: ["2 Va. Dec. 133", "23 S.E. 296"]
+reporter: "va-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cardoza, Sheriff, v. Epps, Sergeant."]
+source_url: "https://static.case.law/va-dec/2/cases/0133-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4439440
+cites_cases: ["7 Cush. 285", "9 Leigh, 119"]
+---
+
+# Cardoza v. Epps
+
+## Majority (Buchanan, J., Keith, J.,)
+
+Buchanan, J.,
+delivered the opinion of the court.
+This is an application of the sheriff of Lunenburg county ' to this court for mandamus to compel the sergeant of the city of Richmond and the keeper of its jail to deliver to him the bodies of William Henry Marable, Pokey Barnes, and Mary Abernathy, now confined in such jail.
+It appears from the record that the prisoners named were convicted in the county court of Lunenburg county at its July term last of murder, and that at the same term the court, for the safe-keeping of these prisoners, adopted the jail of the city of Richmond as the jail of that county, and ordered the sheriff to convey them to such jail, there to be safely kept and treated until brought back by the sheriff for execution.
+On the 11th day of this month the county court of Lunenburg county directed the sheriff to proceed at once to Richmond, and require of such jailer the bodies of said Marable, Barnes, and Abernathy, and in the same order directed the keeper of the jail to deliver the bodies of the prisoners to the sheriff. The sheriff, in obedience to that order, demanded the bodies of the prisoners of the respondent, the keeper of the jail, who refused to deliver them to him.
+The respondent, in his answer to the rule to show cause why the mandamus prayed for shall not be awarded against him, places his refusal to obey the order of the county court and the demand of the sheriff upon three grounds.
+The first of these grounds is that the governor of the commonwealth ordered him not to deliver the prisoners-to the sheriff as directed by the county court.'
+The functions of the various parts of our government are thoroughly separated, and distinctly assigned to the principal branches of it, viz. the legislative, the executive, and the judiciary ; which, within their respective departments, are equal and co-ordinate.
+If anything is self-evident in the structure and organization of our government it is that the executive has no power to interfere with the judiciary in the performance of its duties.
+If the county court of Lunenburg county or its judge committed error in making the order in question, the remedy • was in the courts.
+We find nothing in the constitution or laws of the state which authorized the governor to direct the keeper of the jail to disobey the order of the county court; and his act being without authority, furnishes no legal answer to the rule, and shows no cause why the mandamus prayed for should not be awarded.
+The respondent assigns as a further reason for his action in refusing to obey the order of the county court the fact that a writ of error and supersedeas had been awarded each of the prisoners by this court, the effect of which was to transfer each of the cases from the county court to this court, and to take from that court the power to enter any order therein whereby the rights and persons of the prisoners were in any way affected, or to change their condition, status, or custody from what it was when the writs of error and supersedeas were awarded ; and that he was advised that the petitioner had been forbidden by this court to do anything in the execution of the judgment or order of that court, or to exercise authority, control, or power over their bodies, until the matters involved in the said writs of error shall have been determined by this court.
+It is unnecessary to go into the question of what was the effect of the writs of error and supersedeas awarded by this court upon the rights and duties of the county court and the sheriff of Lunenburg county further than to say that their effect was not to deprive that court of the power and the duty of entering such orders as might be necessary for the safe-keeping of the prisoners ; and, having the right to make orders under certain circumstances, it was not within the province of the respondent, the keeper of the jail of that county, to question the power of that court to make such orders as it might deem proper in the .premises in the discharge of its duty. It was his duty to obey its orders, and to deliver the' prisoners to the sheriff of the county as directed. If the prisoners themselves questioned the power of the county court to make the order that was made, and wished to prevent its execution, they had the right to have that question determined by the courts by resorting to the appropriate proceeding in such cases.
+Another ground upon which the respondent bases his refusal to obey the order of the county court is that, after the governor had ordered him not to deliver the prisoners to the sheriff of Lunenburg county, he was required by the judge of the circuit court of the city of Richmond to produce the bodies of the prisoners before him, and that he now holds them subject to his order, and files with his answer a copy of the proceedings before the judge of that court in the habeas corpus case.
+The petition of' the prisoners in that case upon which the writ of habeas corpus was issued does not allege facts which show that they were detained without lawful authority, nor does it allege that they are so detained. On the contrary, they allege in their petition that they were at that time in the lawful custody of the keeper of the jail of the city of Richmond, but express grave apprehension that the keeper of the jail would deliver them to the sheriff of Lunenburg county, in obedience to the order of the county court. The fear that their custodian might deliver them to the sheriff of Lunenburg county, and thus, in their view, place them in illegal custody, furnished no sufficient ground for awarding the writ. 2 Spell. Extr. Rel. §§ 1191, 1192.
+The writ of habeas corpus does not issue as of course to every one imprisoned or detained who imagines himself or another entitled' to its benefits. Though the writ is a writ of right, it should not be granted except upon probable cause shown, and the party asking for it must make out a prima facie case. 2 Spell. Extr. Rel. § 1194 ; Sims’ Case, 7 Cush. 285, 291; Church, Hab. Corp. § 92 ; Hurd, Hab. Corp. pp. 222-224.
+The facts in this case not showing probable cause, it is insisted that the action of the judge of the circuit court was without jurisdiction, and therefore void, and shows no cause why the mandamus prayed for should not be awarded.
+While the allegations of the petition did not warrant the judge of the circuit court in granting the writ of habeas corpus, yet, having done so, his act was not void.
+Where a court has general jurisdiction over cases of that class to which the one in controversy belongs, although the facts in the case may not have been sufficient to authorize the court to take jurisdiction, yet, if it did so, the question of jurisdiction, having been thus decided by its judgment, cannot be raised again except by a proceeding in error. Fisher v. Bassett, 9 Leigh, 119, 131 ; Cox v. Thomas, 9 Grat. 323, 328; Gibson v. Beckham, 16 Grat. 321, 326.
+And it appearing from the respondent’s answer and the order of the judge of the circuit court that the prisoners are now held under that order, good cause is shown why the mandamus prayed for should not be awarded.
+It is hardly necessary to say that we have no doubt that the governor and all the other officials connected with or involved in this most unfortunate and unseemly controversy have been governed by the utmost good faith in the performance of their duties, and in the assertion of their rights as they understood them.
+An order will be entered refusing the mandamus, and dismissing the petition.
+Keith, J.,
+delivered the opinion of the court.
+I concur in the opinion just delivered by Judge Buchanan, except that it is by no means clear to me that the j udge of Lunenburg or the county court of that county had any jurisdiction in this matter after final judgment was pronounced upon the prisoners, except a special jurisdiction under the statute for the safe-keeping of the prisoners. If this be so, the facts upon which the special jurisdiction was exercised should have appeared upon the face of the order. Secondly, the opinion of the court concedes the jurisdiction of Judge Wellford over the prisoners under the habeas corpus proceedings. That being true, the propriety of its exercise can only be reviewed or properly animadverted upon here on appeal or writ of error.
+In the judgment I fully concur.
