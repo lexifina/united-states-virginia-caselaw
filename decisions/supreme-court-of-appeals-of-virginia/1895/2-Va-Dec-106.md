@@ -1,0 +1,22 @@
+---
+court: "Supreme Court of Appeals of Virginia"
+decided: "1895-03-28"
+citations: ["2 Va. Dec. 106", "21 S.E. 474"]
+reporter: "va-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hoover v. Buck."]
+source_url: "https://static.case.law/va-dec/2/cases/0106-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4440759
+cites_cases: ["16 Gratt. 109", "21 Gratt. 75"]
+---
+
+# Hoover v. Buck
+
+## Majority (Keith, P.,)
+
+Keith, P.,
+delivered the opinion of the court.
+Elliott M. Buck filed a bill in the circuit court of Rockingham county, alleging that he had sold a certain lot of land, situated in the town of Waynesboro, Augusta county, Ya., to oneS. L. Hoover, on the 2Yth of August, 1890, for the sum of $1,000, payable one-third in cash and the residue in two equal payments, with interest thereon; he (the plaintiff) to execute to Hoover a deed, and Hoover to secure the unpaid purchase money by a deed of trust. Plaintiff states that he performed fully his part of the contract, by executing the deed as agreed upon, and delivering the same to D. L. Henkle, to be by- him delivered to Hoover, the defendant, upon Hoover’s executing the deed of trust provided . for, and delivering the same to Henkle or the plaintiff, and at the same time making the cash payment provided for in the contract of purchase. The bill states further that the deed, bonds, and deed of trust were executed in conformity with this agreement, and were placed in the hands of Henkle, but that cash payment was not a made. It appears from the bill that the bonds and deed of trust have been lost, and that Hoover has been called upon to perform his part of the contract, by paying the cash payment and executing new bonds and deed of trust in the place of those lost. A new deed of conveyance having been tendered by the plaintiff for the lot of land, Hoover refused, and still refuses, to perform his contract, or to execute such new bonds or deed of trust. The plaintiff tenders with his bill a deed for the lot sold to S. L. Hoover? and prays that S. L. Hoover and D. S. Henkle may be made defendants to the bill, and that Hoover shall be required to specifically perform his contract, and to pay the amount of his purchase money, with interestfrom the 27th of August, 1890,-— the whole of it being due at the filing of the bill, — and that the bonds and deed of trust may be set up ; for the sale of the real estate ; and for general relief. Hoover answered the bill; and denied every material averment, and thereupon depositions were taken by the plaintiff and defendant and the case came on to be heard before the circuit court of Rockingham ; and that court, after due consideration, being of opinion that the contract set out in the bill was established by the evidence, and that the plaintiff was entitled to have the same specifically executed, decreed that the complainant recover of the defendant, S. L. Hoover, $1,000, with interest from the 27th of September, 1890, and his costs, and providing for the sale of the lot mentioned in the bill unless the sum decreed, with interest, should be paid within 60 days. To this decree a supersedeas was allowed by one of the judges of this court.
+We are of opinion that the evidence establishes the contract set out in the bill, and it appearing that the plaintiff has at all times been ready to execute the contract upon his part, and has been prompt in asserting his rights, and that the remedy at law would not be so beneficial as that in equity, the court is further of the opinion that the plaintiff is fully entitled to the relief sought. It is well settled that “when a contract concerning real estate is valid, unobjectionable in its nature and in the circumstances connected with it, and capable of being enforced, and it is just and proper that it should be fulfilled, it is as much a matter of course for a court of equity to decree a specific performance as for a court of law to give damages for the breach of it.” Wat. Spec. Perf. § 6. “A valuable consideration, particularity, certainty, mutuality, and ¿necessity for performance, are the requisites upon which the equity of a case arises.” Id. 7. All of these circumstances concur in this case, and we are therefore of the opinion that there is no error in the decree complained of, and that it should be affirmed.
