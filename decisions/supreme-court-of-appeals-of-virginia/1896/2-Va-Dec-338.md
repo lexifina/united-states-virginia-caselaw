@@ -1,0 +1,21 @@
+---
+court: "Supreme Court of Appeals of Virginia"
+decided: "1896-03-26"
+citations: ["2 Va. Dec. 338", "24 S.E. 344"]
+reporter: "va-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sargeant et ux. v. Irving et al."]
+source_url: "https://static.case.law/va-dec/2/cases/0338-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4440811
+---
+
+# Sargeant v. Irving
+
+## Majority (Biely, J.,)
+
+Biely, J.,
+delivered the opinion of the court.
+The principal ground of error assigned in the petition is that the court of Buckingham county did not have jurisdiction to enter the order discontinuing the ferry of the plaintiffs in error across James river at Howardsville. Section 1380 of the Code of 1887 confers upon the court of the county “from which any ferry is established’ ’ the right to discontinue such ferry for the failure to comply with the requirements of the law with respect to ferries, after 'first causing the proprietor to be summoned to show cause against such order ; but it is claimed that it does not appear that the ferry under investigation was established from Buckingham county. It is conceded that the ferry was established by an act of the general assembly more than a hundred years ago, but the original act has not been produced. The earliest description of the ferry that we have is to be found in the act of December 26, 1792, entitled “An act reducing into one the several acts for the settlement and regulation of ferries.” See Rev. Code 1802, c. 116, pp. 221-228. Here it is described as the ferry “from the land of William Howard, over the Fluvanna, to Thomas Anderson’s landing, and from said Anderson’s to Howard’s. ” At the time this act was passed, the river at that point, as the main branch of James river, was called the Fluvanna river. In the absence of the original act creating the ferry, it is to be presumed that when the legislature undertook to pass' a general act enumerating and grouping together the ferries it had established it described them correctly. It thus appears that the ferry was established both from Albemarle county across the river to Buckingham county, and from Buckingham county back across the river to Albemarle county. The court of either county therefore had jurisdiction, under the provisions of section 1380, to make an order discontinuing the ferry upon proof of failure to comply with the law, subject to the concurrence of the court of the other county. The right of the court of Buckingham county to enter the order complained of thus plainly appears.
+It is next complained that, the order having been made on November 13, 1894, and the defendants having expressed their intention to appeal to the circuit court, and have the case heard de novo, they were given until November 17th within which to give the necessary bond, but that the court adjourned for the term on the 14th, three days previous thereto. At its January term, 1895, the court entered an order amending the record of November, 1894, and showing that there was a mistake in the date of the order adjourning the term, and that the court did not adjourn until November 19th, instead of November 14th. It is unnecessary to pass on the validity of such amendment, but sufficient to say that it nowhere appears in the record, nor is it claimed, that the plaintiffs in error were prevented from giving the required bond by the adjournment of the court at its November term, 1894, and that they were really prejudiced by the action of the court, even if it did in fact adjourn earlier than November 17th. The record does not contain any of the evidence which induced the court to enter its order discontinuing the ferry, and all that we have before us are the facts recited in the order of the court, and made a part thereof. The facts so recited, if established by the evidence, would be con-elusive of the propriety of the order of the court; but, independent of the facts so recited, it appearing that the court had jurisdiction over both the subject-matter of the proceeding and of the parties, its judgment must be presumed to be right until the contrary is shown. There is no error in the judgment of the circuit court, and the same is therefore affirmed.
