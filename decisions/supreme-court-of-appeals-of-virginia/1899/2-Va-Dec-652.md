@@ -1,0 +1,37 @@
+---
+court: "Supreme Court of Appeals of Virginia"
+decided: "1899-06-22"
+citations: ["2 Va. Dec. 652", "33 S. E. Rep. 546."]
+reporter: "va-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["National Exchange Bank of Baltimore v. Preston et al. Bank of Tazewell v. Same. Bank of Bramwell v. Same."]
+source_url: "https://static.case.law/va-dec/2/cases/0652-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4438790
+cites_cases: ["23 Gratt. 376"]
+---
+
+# National Exchange Bank of Baltimore v. Preston
+
+## Majority (Harrison, J.,)
+
+Harrison, J.,
+delivered the opinion of the court.
+The two first named of these suits were brought to enforce the payment of certain liens binding the lands of B. A. Preston and others.
+The third and last named suit was brought in the name of B. A. Preston, for the benefit of the Bank of Bramwell, a creditor of E. A. Preston, to enforce the payment of a vendor’s lien upon 100 acres, part of the land of E, A. Preston, which he had sold to his son S. E. Preston, and which land was bound by judgment liens against E. A. Preston prior to the conveyance of the same to S. E. Preston.
+The objection to the form of this last mentioned suit is not well taken. The act of 1897-98 provides that when the legal title to a claim enforceable in a court of equity is in one person, and the beneficial equitable title in another, the latter may either maintain a suit in the name of the holder of the legal title for his use and benefit, or in his own name, and further provides that the act shall apply to suits pending at the time of its passage, or such as shall be thereafter brought. Acts 1897-98, p. 437. This act applies to the suit in question, and removes the objection made to its form.
+These three causes were properly heard together. This course was necessary in order to protect the interests of all concerned, and to prevent inconsistent and conflicting decrees from being entered.
+In response to decrees of reference, elaborate reports were made by a commissioner, showing the lands owned by John Gr. White, and the liens binding the same, in the order of their priority ; also, showing the lands which had been owned by E. A. Preston and aliened by him at various times, and the liens against E. A. Preston binding the same in the hands of his alienees.
+Numerous exceptions were taken by E. A. Preston to the 1 report of liens against him, but the findings of the commissioner appear to have been acquiesced in by John Gr. White. The circuit court overruled all the exceptions taken by E. A. Preston, confirmed the reports, and decreed a sale of the lands of E. A. Preston which had been aliened by him, and the lands of John Gr. W hite, or so much thereof as might be necessary, to satisfy the respective liens binding the lands of each.
+John G. White and R. A. Preston take separate appeals from this decree, and ask that the same be reviewed.
+The action of the lower court in overruling the exceptions taken by R. A. Preston to the report of the commissioner is assigned as error. The first of these exceptions, to which much importance appears to be attached, complains that others are jointly bound with the appellant for lien No. 1, and that it was wrong to proceed against the appellant alone for its enforcement. It is sufficient to say that the beneficiaries of lien No. 1 have released of record R. A. Preston from all liability on account of this lien, except the one-sixth part thereof, for which he is in any event liable.
+It is, however, contended that it does not appear which of the joint debtors is entitled to the benefit of certain credits allowed by the commissioner on lien No. 1; that, if R. A. Preston made those payments, he might not owe anything on account of that lien. It is not asserted in argument or elsewhere that appellant was entitled to the benefit of one of the credits in question; but it is sufficient to say that he has had ample opportunity to show his rights in that respect, if he had any, before the commissioner, and has failed to do so, and cannot be heard now, by a mere suggestion that such might be the case, to further delay the decree for sale.
+There are several smaller judgments to which a similar exception is directed, but there is nothing in the record to showr what relation the debtors in these judgments bear to each other. It does appear that their satisfaction is provided for by R. A. Preston from the proceeds of the sale of one parcel of his land to his son, S. R. Preston. In this case, however, as in the first-mentioned, the appellant had every opportunity to show, if he had desired to do so, that others were jointly bound with him in these judgments.
+A further exception is that proper and necessary parties are not before the court. Before the report was confirmed, amended bills in each of the two first-named causes were filed, bringing-all additional parties pointed out by the exception before the court, and it does not appear that any other party is necessary in order to do complete justice to all concerned.
+It is further insisted that the decree should not have provided for the sale of the lands of S. B. Preston in solido ; that inasmuch as the land was conveyed to him by his father, B. A. Preston, in several parcels, at different times, the sale should, in pursuance of section 3575 of the Code, be made of each separate parcel in the inverse order of alienation. The decree provides that the several alienations by B. A. Preston shall be sold separately, and that then the farm shall be exposed to sale as a whole, and the sale adopted which shall produce the best result. This mode of selling the land guards against a sacrifice, and secures to all concerned the best price that can be obtained.
+The contention that the land must be sold in the inverse order of its alienation to S. B. Preston is not tenable. The land is being sold for a large indebtedness, much of which is a prior lien to any rights of S. B. Preston upon the whole tract. Without considering whether section 3575 applies to a case like this, where the several alienations are to the same person, it is sufficient to say that the section referred to provides that when the real estate liable to the lien of a judgment is more than sufficient to satisfy the same, and it, or any part of it, has been aliened, as among the alienees for value, that which was aliened last shall in equity be first liable, etc. It nowhere appears, and it has not been suggested as a fact, that the real estate liable to the liens in these causes is more than sufficient to satisfy the same : and, if appellant had intended to rely upon its being more than sufficient, he should have alleged it by answer, or established the fact by proof.
+The petition for appeal filed by John G. White adopts the petition of B. A. Preston, just considered, as his own, and, in addition, insists that his land should not be sold until the lands of E. A. Preston have been exhausted.
+As already seen, this appellant took no exception to the report of the commissioner, and cannot, therefore, in this court, object to the findings of that report. The additional assignment that the lands of E. A. Preston should be first exhausted is not well taken, it appearing from the record that the lands of the appellant White are being sold to satisfy debts of his own.
+Eor these reasons the decree appealed from must be affirmed.
+Eiely, J., absent. Buchanan, J., .absent, interested in case. ,
