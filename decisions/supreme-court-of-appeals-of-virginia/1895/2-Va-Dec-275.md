@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of Appeals of Virginia"
+decided: "1895-12-12"
+citations: ["2 Va. Dec. 275", "23 S.E. 766"]
+reporter: "va-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robertson et al. v. Hardy’s Adm’r et al."]
+source_url: "https://static.case.law/va-dec/2/cases/0275-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4439980
+cites_cases: ["21 S. E. 810"]
+---
+
+# Robertson v. Hardy's Adm'r
+
+## Majority (Riely, J.,)
+
+Riely, J.,
+delivered the opinion of the court.
+The main question to be determined is the nature of the estate taken under the will of John C. Hardy by his widow in his personal property. This depends upon the true construction of that instrument. And to this end it is only necessary to consider the first,- second, and fifth clauses, which are as follows: £ £(1) * * * I do at my death loan the tract of land on which I at present reside, and known as the £dower tract, ’ * * * to my beloved wife, during her natural life, with all the property, of whatever nature or kind soever it may be, for the benefit of her and my three youngest children, for their support and education; and, at her death, I give the said tract of land to my son, William Joseph Newton Hardy, and the heirs of his body. * * * (2) All the personal property remaining at my wife’s death, of whatever kind or nature, shall be sold, and equally divided between my three daughters, viz. Loubinia A. Tucker, wife of Robt. W. Tucker, Sarah A. B. Hardy, and Etta Wilburn Hardy, and my son, William Joseph Newton Hardy ; Emeline C. Spain and Caroline A. Hurt included equally in said division.” ££(5) My beloved wife, Sarah A. Hardy, shall have the right to give any of the above-named children anything that she may be able or think proper to give, whenever they leave her or need assistance.”
+Under the first clause, the land is expressly given to her for life ; and, at her death, it is devised to the testator’s son, William Joseph Newton Hardy. It is perfectly clear that she took only a life estate in the land. By the same clause, the personal property is given to her ; and, by a fair and reasonable construction, it is embraced within the limitation imposed upon the devise to her of the land. So that, if this were all touching the bequest to her of- the personalty, she would have taken only a life estate in it also. £ £A11 the personal property remaining at my wife’s death, of whatever kind or nature,” says the testator in the second clause, ‘ ‘shallbe sold, and equally divided’ ’ among certain of his children. The words £ ‘remaining at my wife’s death” imply power in the wife to use, consume, and dispose of the personal property ; and such power implies absolute dominion. . Absolute dominion imports absolute ownership. "Where it is the intention of the testator that the first taker shall have an unlimited power of disposition over the property devised or bequeathed, whether such intention be expressed or necessarily implied, a limitation over to another is void, because it is inconsistent with, and repugnant to, the estate given to the first taker, although the will shows that it was the testator’s intention, in respect to the subject of the gift, that what may remain of it at the death of the first taker should go to another. This court has recently had occasion to consider this subject, with respect to a devise made in language almost identical, in the case of Farish v. Wayman, 21 S. E. 810, where it was fully discussed and the authorities reviewed by Judge Harrison. It was there held that the first taker took an estate in fee simple in the land, and in this case the bequest to the widow, in conformity with a long line of decisions by this court, vested in her an absolute estate in the personal property.
+It was claimed by the counsel for the appellants that the language of the fifth clause negatives the construction that the testator intended to invest his wife with the power of absolute or unlimited disposition over the personal property, in that it authorizes her to give anything that ‘ ‘she may be able or think proper to give” to certain of their children, “whenever they leave her or need assistance, ’ ’ as this would be unnecessary and superfluous if she had the absolute estate; but this is not sufficient to repel the plain implication from the words of the second clause of the gift of the absolute estate.
+No restriction of the gift of the personal property can be inferred from the use of the word “loan” in the first clause. The significance and effect of the use of this word in a will was much considered by Judge Moncure in the case of Parker v. Wasley’s Ex’r, 9 Grat. 477; and, in the construction of a will of considerable difficulty, it was held to vest in the legatee the absolute interest in the legacy.
+It is conceded by the parties, and rightly so, • that the item of $143.25, claimed by Mrs. Hardy as her own money, belonged under the law to her husband. It was consequently embraced by his bequest to her. There is no good ground for holding that he died intestate as to it. The court properly distributed it as a part of her estate, along with the other personalty.
+There is no error in the decrees appealed from, and the same are affirmed.
